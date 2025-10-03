@@ -1,23 +1,5 @@
-👋 Hi There, I'm Brian Muriiki Kimathi. A young tech enthusiast who is passionate about creating elegant solutions to complex problems. 
+### 👨‍💻 Hi, I'm Brian Muriiki Kimathi  
 
-🔭 Currently exploring the realms of javascript.
-
-💻 Experienced in front-end web development with a focus on HTML and CSS.
-
-🌱 Always learning and eager to collaborate on exciting projects.
-
-📫 Let's connect! Feel free to reach out for collaboration or just to say hi.
-<!--
-**Kimathi19/Kimathi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Engineer • Problem Solver • Lifelong Learner**  
+**Always curious, always building.**   
+Let’s build something together. 
